@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Golf Scorecard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Titles -->
+    <string name="title_card_flip">Lynwood Country Club</string>
+
+    <!-- Actions -->
+    <string name="action_front">Flip to Front</string>
+    <string name="action_back">Flip to Back</string>
+
+    <!-- Other strings -->
+    <string name="card_back_title">Angry Red Android</string>
+    <string name="card_back_description">testing</string>
+
+</resources>
